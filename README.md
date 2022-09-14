@@ -2,4 +2,4 @@
 
 My first repository on GitHub
 
-I love :game: :rice:, and :dancer:.
+I love 🎮: :rice:, and :dancer:.
