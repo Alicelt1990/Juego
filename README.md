@@ -1,5 +1,4 @@
 # Juego
 
 My first repository on GitHub
-
-I love 🎮: :rice:, and :dancer:.
+I love :video_game: :rice:, and :dancer:.
